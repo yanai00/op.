@@ -1,0 +1,134 @@
+Op. Freeware License / Op. 無料利用許諾
+Version 1 — 2026-11-02
+Copyright (c) 2026 yanai00 (Op. developer).
+
+日本語版を正文とし、後半の英語版は参考訳です。
+
+1. 対象と第三者の権利
+本許諾は、開発者が権利を有するOp.独自のプログラム、ソースコード、
+画面デザイン、画像、ロゴおよび文書（以下「Op.独自部分」）に適用されます。
+第三者のライブラリ、コード、素材、フォントその他の構成物は、それぞれの
+権利者が定めるライセンスに従います。本許諾は、それらの利用、複製、改変、
+再配布、リバースエンジニアリング、ソース入手等の権利や義務を制限・変更しません。
+第三者のライセンスと本許諾が抵触する範囲では、第三者のライセンスを優先します。
+第三者の表記・ライセンス・ソース入手先は同梱のlicenses/を参照してください。
+
+2. 無料の利用許諾
+開発者は、個人および法人その他の組織に対し、開発者が正規に提供する未改変の
+Op.を、個人利用および業務利用のために無償でインストール・実行する、
+非独占的な権利を許諾します。利用のために必要な複製、自己の端末間の移行、
+組織内部での導入、および自己のためのバックアップも認めます。
+本許諾の対象版の機能利用に料金や開発支援は必要ありません。
+開発支援は完全に任意であり、支援の有無や金額による機能制限・解放はありません。
+支援によって、別途の再配布許可、権利の譲渡、保証またはサポート義務は生じません。
+
+3. 許可が必要な行為
+第1条の第三者の権利、法令上認められる行為、および利用先プラットフォームの
+適用規約が認める行為を除き、開発者の事前の書面または電子的な許可なく、
+Op.独自部分について、次の行為は認めません。
+・公衆への再配布、転載、販売、再販売、再許諾、または第三者向けの配布物への同梱。
+・改変版の作成・配布、ソースコードの他の製品・サービスへの組み込みや再利用。
+・逆コンパイル、逆アセンブルその他のリバースエンジニアリング。
+・著作権・ライセンス表記の削除、開発者のなりすまし、公式版との誤認を招く表示。
+単にアプリを仕事で使用することは、ここでいう販売・再販売には含みません。
+
+4. ソースコードと名称
+ソースコードを閲覧できる場合でも、本許諾はOp.独自部分をオープンソースとして
+再利用する許可を与えるものではありません。ただしGitHub等の規約により
+認められる閲覧・フォーク等は、その規約の範囲で扱われます。
+Op.の名称・ロゴについて、公式の関連・承認を示す権利は許諾しません。
+通常の紹介、正規の配布ページへのリンク、および法令上認められる引用等は妨げません。
+
+5. ユーザーデータ
+本許諾は、利用者の音楽、動画、メタデータ、ライブラリ、バックアップ等に関する
+所有権・著作権その他の権利を開発者へ移転するものではありません。
+
+6. 保証と責任
+Op.は現状のまま提供します。法令で義務付けられる場合を除き、開発者は、
+商品性、特定目的への適合性、無不具合性、継続提供、特定の音質・再生精度等を
+保証しません。法令で許される範囲で、利用または利用不能によって生じた損害に
+責任を負いません。ただし開発者の故意・重大な過失に基づく責任、消費者保護法令
+その他の強行法規により排除・制限できない権利や責任は除きます。
+
+7. 違反と許諾の終了
+Op.独自部分に関する本許諾に違反した場合、開発者は当該部分の利用許諾を
+終了することができます。終了した場合は、その部分の利用と追加の複製を
+停止してください。利用者自身の音楽・動画・ライブラリ・バックアップ等の
+削除は求めません。第三者から独立して与えられた権利は終了させません。
+
+8. その他の許可と権利の留保
+本許諾で明示したものを除き、Op.独自部分の権利を留保します。
+再配布等の個別の許可は、開発者へ問い合わせてください。
+開発者の連絡先プロフィール: https://github.com/yanai00
+
+===== English translation =====
+Op. Freeware License — Version 1, 2026-11-02
+Copyright (c) 2026 yanai00 (Op. developer).
+The Japanese text is authoritative. This English text is a translation for convenience.
+
+1. Scope and third-party rights
+This license applies only to the original Op. programs, source code, interface designs,
+images, logos and documentation in which the developer holds rights ("Op. Original
+Material"). Third-party libraries, code, assets, fonts and other components retain
+their respective licenses. This license does not restrict or change the rights or
+obligations those licenses provide, including use, copying, modification,
+redistribution, reverse engineering and access to source code. In a conflict,
+the applicable third-party license prevails for that material. See the bundled
+licenses/ directory for notices, license terms and upstream source locations.
+
+2. Free use
+The developer grants individuals and organizations a non-exclusive, royalty-free
+right to install and run official, unmodified copies of Op. for personal or business
+use. Copies needed for that use, migration between your devices, deployment within
+your organization and your own backups are permitted.
+No payment or development support is required to use the features of the version
+covered by this license. Support is entirely optional; features are neither
+restricted nor unlocked according to whether or how much a user contributes.
+Support does not create redistribution rights, a transfer of ownership, warranties
+or a support obligation.
+
+3. Activities requiring permission
+Except for third-party rights described in section 1, activities permitted by law,
+and rights granted under an applicable platform's terms, you must obtain the
+developer's prior written or electronic permission to do any of the following
+with Op. Original Material:
+- Publicly redistribute, republish, sell, resell, sublicense or bundle it in a
+  distribution intended for third parties.
+- Create or distribute modified versions, or incorporate or reuse its source code
+  in another product or service.
+- Decompile, disassemble or otherwise reverse engineer it.
+- Remove copyright or license notices, impersonate the developer or misrepresent
+  a distribution as official.
+Using the application for your work does not itself constitute sale or resale.
+
+4. Source code and identity
+Access to source code does not grant an open-source reuse license for Op. Original
+Material. Viewing, forking or other rights granted by an applicable platform's
+terms, including GitHub's terms, remain governed by those terms.
+No right to use Op.'s name or logo to imply official affiliation or endorsement is
+granted. Ordinary descriptions, links to official distribution pages and quotation
+or other acts permitted by law are not prohibited.
+
+5. User data
+This license does not transfer ownership, copyright or other rights in your music,
+videos, metadata, library, backups or other user data to the developer.
+
+6. Warranties and liability
+Op. is provided as is. Except where required by law, the developer gives no warranty
+of merchantability, fitness for a particular purpose, absence of defects,
+continued availability, or any particular sound quality or playback accuracy.
+To the extent permitted by law, the developer is not liable for loss arising from
+use or inability to use the software. This does not exclude liability for the
+developer's intentional misconduct or gross negligence, or any rights or liability
+that mandatory consumer-protection or other laws do not allow to be excluded or limited.
+
+7. Breach and termination
+If you breach this license for Op. Original Material, the developer may terminate
+the permission for that material. On termination, stop using it and making further
+copies. You are not required to delete your music, videos, library or backups.
+Rights granted independently by third parties are not terminated.
+
+8. Reserved rights and other permissions
+Rights in Op. Original Material not expressly granted above are reserved.
+Contact the developer for separate permission, including redistribution permission.
+Developer contact profile: https://github.com/yanai00
